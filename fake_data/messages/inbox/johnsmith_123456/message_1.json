@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "John Smith"
+    },
+    {
+      "name": "Tim Jones"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 5,
+      "content": "The haunted house is spooky, I'm scared.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tim Jones",
+      "timestamp_ms": 4,
+      "content": "My mum just died. I am really sad and need your support.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 3,
+      "content": "It is gross and disgusting that you pick your nose.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tim Jones",
+      "timestamp_ms": 2,
+      "content": "Icecream on a summer's day brings me joy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 1,
+      "content": "I am furious that you cheated on me, I feel betrayed.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 0,
+      "content": "Woah, a phantom or ghost just appeared in the mirror!",
+      "type": "Generic"
+    }
+  ],
+  "title": "John Smith",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/johnsmith_123456"
+}
